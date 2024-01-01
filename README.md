@@ -8,8 +8,6 @@ I am a self-starter, quick learner, and highly adaptable to new technologies and
 
 If you're looking for a DevOps engineer who can streamline your application delivery process and help you achieve faster time-to-market, then I am the person for you!
 
-![Profile Card](https://github.com/abhi-dev91/abhi-dev91/blob/533792076f001589eaff9ecb56618118a8e6f392/Yellow%20and%20Black%20Global%20Response%20Engineer%20LinkedIn%20Banner.png)
-
 ## Here is Some more info about me -
 - 🔭 I’m currently working on StrangeTalk, AFTG
 - 🌱 I’m currently learning Data Science, DSA, DevOps.
